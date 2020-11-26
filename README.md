@@ -23,3 +23,6 @@ https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/proba
 https://www.indeed.com/career-advice/interviewing/probability-interview-questions
 https://www.wisdomjobs.com/e-university/statistics-interview-questions.html
 https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street
+
+#### Time Series
+https://www.researchgate.net/profile/Joilson_Giorno/publication/305304644_Measuring_the_Cyclical_Component_of_a_Time_Series_a_New_Proposed_Methodology/links/57928e0b08aec89db786ff53/Measuring-the-Cyclical-Component-of-a-Time-Series-a-New-Proposed-Methodology.pdf
