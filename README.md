@@ -9,7 +9,7 @@ Aquí puedes encontrar código que generado, cambiado o mejorado para mis proyec
 ### Checklists
 https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit#gid=859146723
 
-### Data Science in general
+### Data Science interviews
 https://www.kdnuggets.com/2020/01/data-science-interview-study-guide.html
 https://www.educative.io/blog/top-machine-learning-interview-questions
 
@@ -26,3 +26,7 @@ https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview
 
 #### Time Series
 https://www.researchgate.net/profile/Joilson_Giorno/publication/305304644_Measuring_the_Cyclical_Component_of_a_Time_Series_a_New_Proposed_Methodology/links/57928e0b08aec89db786ff53/Measuring-the-Cyclical-Component-of-a-Time-Series-a-New-Proposed-Methodology.pdf
+
+
+# AI state of the art
+https://paperswithcode.com/sota
