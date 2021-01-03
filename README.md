@@ -28,5 +28,5 @@ https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview
 https://www.researchgate.net/profile/Joilson_Giorno/publication/305304644_Measuring_the_Cyclical_Component_of_a_Time_Series_a_New_Proposed_Methodology/links/57928e0b08aec89db786ff53/Measuring-the-Cyclical-Component-of-a-Time-Series-a-New-Proposed-Methodology.pdf
 
 
-# AI state of the art
+## AI state of the art
 https://paperswithcode.com/sota
