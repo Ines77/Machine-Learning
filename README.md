@@ -30,3 +30,7 @@ https://www.researchgate.net/profile/Joilson_Giorno/publication/305304644_Measur
 
 ## AI state of the art
 https://paperswithcode.com/sota
+
+
+## DATA, DATA
+- Stock prices: https://docs.quandl.com/docs/data-organization
