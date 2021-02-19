@@ -32,5 +32,9 @@ https://www.researchgate.net/profile/Joilson_Giorno/publication/305304644_Measur
 https://paperswithcode.com/sota
 
 
+## Videos
+MineSafe https://www.ted.com/talks/carlos_bautista_the_awful_logic_of_land_mines_and_an_app_that_helps_people_avoid_them
+
+
 ## DATA, DATA
 - Stock prices: https://docs.quandl.com/docs/data-organization
