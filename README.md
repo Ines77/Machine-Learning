@@ -37,4 +37,5 @@ MineSafe https://www.ted.com/talks/carlos_bautista_the_awful_logic_of_land_mines
 
 
 ## DATA, DATA
-- Stock prices: https://docs.quandl.com/docs/data-organization
+- [Quandl Stock prices] (https://docs.quandl.com/docs/data-organization)
+- [USA phone codes] (https://talkroute.com/area-code-prefix-and-other-parts-of-a-phone-number/) 
